@@ -10,11 +10,7 @@ namespace Orientado_a_Objetos
     {
         static void Main(string[] args)
         {
-
-          
-
-
-
+                  
 
 
 
