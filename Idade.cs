@@ -6,39 +6,13 @@ namespace Orientado_a_Objetos
 {
     class Idade
     {
-        private string nome;
-        private int idade;
-
-        public void setNome(string nome)
-        {
-            this.nome = nome;
-        }
-        public string getNome()
-        {
-            return this.nome;
-        }
-
-        public void setIdade(int idade)
-        {
-            this.idade = idade;
-        }
-        public int getIdade()
-        {
-            return this.idade;
-        }
+        public string Name { get; set; }
+        public int Age { get; set; }
 
         public string maiorIdade( Idade i1 , Idade i2)
         {
-            string msg = "";
-            if (i1.idade > i2.idade)
-            {
-                msg = $" A pessoa mais velha é : {i1.getNome()} ";
-            }
-            else
-            {
-                msg = $" A pessoa mais velha é : {i2.getNome()} ";
-            }
-
+            string msg = "A pessoa mais velha é : ";
+            msg += (i1.Age > i2.Age) ? i1.Name : i2.Name;
             return msg;
         }
 

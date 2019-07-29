@@ -11,17 +11,7 @@ namespace Orientado_a_Objetos
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Ola Mundo" );
-            Console.WriteLine(  "Só que não hahah ");
-
-            Console.WriteLine("Só que não hahah ");
-
-
-
-            Console.ReadLine();
-
-
-
+          
 
 
 
