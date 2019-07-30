@@ -1,0 +1,29 @@
+[33mcommit defaa11340a97f0fcfd6e1004389f8df33ce82e6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Arthur Rodrigues <arthur.bits@gmail.com>
+Date:   Mon Jul 29 14:47:50 2019 -0300
+
+     Teste para troca de email do usuário
+
+[33mcommit ff5a4eef155ff7ac3c33f2fd36b3704558809885[m
+Author: Arthur Rodrigues <pepetuabi@gmail.com>
+Date:   Mon Jul 29 12:55:00 2019 -0300
+
+     Removidos o uso do This em algumas classes.
+
+[33mcommit 0461e20a883747679bcd19994d62d77a4cadb94d[m
+Author: Arthur Rodrigues <pepetuabi@gmail.com>
+Date:   Mon Jul 29 12:00:25 2019 -0300
+
+     Incluso resposta e finalizacao
+
+[33mcommit 8b5dfc61a3cd568cf5326b3288437b4e5aa7777b[m
+Author: Arthur Rodrigues <pepetuabi@gmail.com>
+Date:   Mon Jul 29 10:37:38 2019 -0300
+
+     Feito teste com frase para commit
+
+[33mcommit 54c511788cf71316726b986605dc4cf4846f59ec[m
+Author: Arthur Rodrigues <pepetuabi@gmail.com>
+Date:   Mon Jul 29 10:33:00 2019 -0300
+
+     Projeto com aulas ate o modulo 10
