@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using Orientado_a_Objetos.Enum;
+using Orientado_a_Objetos.Polimorfismo;
 
 
 namespace Orientado_a_Objetos
@@ -9,10 +10,7 @@ namespace Orientado_a_Objetos
     { 
         static void Main(string[] args)
         {
-           
-
-
-
+            
 
 
 
