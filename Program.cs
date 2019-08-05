@@ -1,16 +1,14 @@
 ﻿using System;
-using System.Globalization;
-using Orientado_a_Objetos.Enum;
-using Orientado_a_Objetos.Polimorfismo;
-
+using Orientado_a_Objetos.Exceptions;
+using Orientado_a_Objetos.Exceptions.Exceptions;
 
 namespace Orientado_a_Objetos
 {
     class Program
-    { 
+    {
         static void Main(string[] args)
         {
-            
+           
 
 
 
@@ -29,17 +27,7 @@ namespace Orientado_a_Objetos
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+            Console.WriteLine("\n\n\n\n\n\n\n\n\n\n");
         }
     }
 }
